@@ -28,8 +28,8 @@ TO run TER need java 1.8.0
     * [github](https://github.com/cnap/gec-ranking)
 
 5.**TER**
-   *[M Snover in 2008](https://www.cs.umd.edu/~snover/pub/amta06/ter_amta.pdf)
-   *[github](https://github.com/jhclark/tercom)
+   * [M Snover in 2008](https://www.cs.umd.edu/~snover/pub/amta06/ter_amta.pdf)
+   * [github](https://github.com/jhclark/tercom)
 
 
 
