@@ -6,12 +6,12 @@ Grammatical Error Correction Metrics
 To be used convenienced，we collect some metrics of GEC 
 
 
-##Contents
+## Contents
 TO run M2SCORER，I-measure，BLEU，GLEU, metrics need python==2.7.0
 TO run TER need java 1.8.0 
 
 
-##Reference
+## Reference
 1.**M2SCORER**
    * [D Dahlmeier in 2002](https://www.aclweb.org/anthology/N12-1067.pdf)
    * [github](https://github.com/keisks/m2scorer)
